@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chào mừng đến với PASTH
 
 You can use the [editor on GitHub](https://github.com/huyhoangofficial210300/doanmonhoc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
